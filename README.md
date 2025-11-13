@@ -1,7 +1,8 @@
 # Rail-Autonomy
 Coventry Very Light Rail (CVLR) - Tram Autonomy
 
-Role - Autonomy Systems Lead 
+My Role - Autonomy Systems Lead 
+
 Contracting through my company Gildas AI- See website - [HERE](https://gildas-ai.co.uk/)
 
 Video below of tech trials on Coventry Very Light Rail (CVLR) project. 
