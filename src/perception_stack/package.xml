@@ -1,0 +1,12 @@
+<package format="3">
+  <name>perception_stack</name>
+  <version>0.0.1</version>
+  <description>Perception stack for Jetson AGX Orin: LiDAR, camera, SegNet, RF-DETR</description>
+  <maintainer email="your-email@example.com">Your Name</maintainer>
+  <license>Apache-2.0</license>
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>sensor_msgs</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+  <exec_depend>cv_bridge</exec_depend>
+  <exec_depend>image_transport</exec_depend>
+</package>
