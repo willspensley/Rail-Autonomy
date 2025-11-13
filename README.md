@@ -1,7 +1,8 @@
 # Rail-Autonomy
 Coventry Very Light Rail - Tram Autonomy
 
-I was th
+Role - Autonomy Systems Lead 
+Contracting through my company Gildas AI- See website - https://gildas-ai.co.uk/
 
 Video below of tech trials on Coventry Very Light Rail (CVLR) project. 
 Using a Jetson AGX Orin, lidar and vision camera, with the perception stack utilising JetPack SDKs where necessary. 
