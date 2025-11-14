@@ -9,8 +9,7 @@ Video below of tech trials on Coventry Very Light Rail (CVLR) project.
 Perception system using Jetson AGX Orin, lidar and vision camera.
 Currently using RViz for sensor visualisation.
 Delivering semantic segmentation through segnet. 
-![IMG_0778](https://github.com/user-attachments/assets/f5bc45b8-d57d-4feb-904e-f6030ab371e7)
-
+<img width="895" height="308" alt="image" src="https://github.com/user-attachments/assets/b2831c04-2fe1-466c-a4c2-0bf05852b5db" />
 
 https://github.com/user-attachments/assets/3dabc073-8a05-42f1-b875-38e17a6f6e36
 
