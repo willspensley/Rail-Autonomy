@@ -11,6 +11,7 @@ Currently using RViz for sensor visualisation.
 Delivering semantic segmentation through segnet. 
 
 https://github.com/user-attachments/assets/3dabc073-8a05-42f1-b875-38e17a6f6e36
+
 <img width="895" height="308" alt="image" src="https://github.com/user-attachments/assets/b2831c04-2fe1-466c-a4c2-0bf05852b5db" />
 
 Gildas AI has previously partnered with UK Rail and Innovation network at the University of Birmingham and Coventry University on UK innovate applications to build the Autonomous Operating System for Rail Vehicles. Please email for details / collaboration oppourtunities - william.spensley@gildas-ai.co.uk
