@@ -8,7 +8,8 @@ Contracting through my company Gildas AI- See website - [HERE](https://gildas-ai
 Video below of tech trials on Coventry Very Light Rail (CVLR) project. 
 Perception system using Jetson AGX Orin, lidar and vision camera.
 Currently using RViz for sensor visualisation.
-Delivering semantic segmentation through segnet. However, RF-DETR instance segmentation model now delivering great results.
+Delivering semantic segmentation through segnet. 
+![IMG_0778](https://github.com/user-attachments/assets/f5bc45b8-d57d-4feb-904e-f6030ab371e7)
 
 
 https://github.com/user-attachments/assets/3dabc073-8a05-42f1-b875-38e17a6f6e36
